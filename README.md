@@ -1,5 +1,5 @@
 # vds2ppl2vds
-Little shell script which syncs contacts between vdirsyncer and ppl.
+Little shell script which syncs contacts between [vdirsyncer](https://github.com/pimutils/vdirsyncer) and [ppl](http://ppladdressbook.org/).
 
 
 ## Delimitations
